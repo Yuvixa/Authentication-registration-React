@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "david@lms.pe",
+      "name": "",
+      "password": "encinas2023",
+      "email": "y@cam.com",
+      "phone": "962366350",
+      "country": "usa",
+      "address": "Av Gregorio Escobedo 532\nFrente a Residencial San Felipe",
+      "gender": "female"
+    }
+  ]
+}
