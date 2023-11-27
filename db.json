@@ -14,6 +14,26 @@
       "country": "usa",
       "address": "Av Gregorio Escobedo 532\nFrente a Residencial San Felipe",
       "gender": "female"
+    },
+    {
+      "id": "Lilian",
+      "name": "",
+      "password": "152461",
+      "email": "lds@lili.com",
+      "phone": "31526358695",
+      "country": "singapore",
+      "address": "Calle Carcabilla 521",
+      "gender": "female"
+    },
+    {
+      "id": "Lilo",
+      "name": "Lili Diaz",
+      "password": "encinas2023",
+      "email": "l@diaz.com",
+      "phone": "319856332562",
+      "country": "singapore",
+      "address": "Calle Carcabilla",
+      "gender": "female"
     }
   ]
 }
